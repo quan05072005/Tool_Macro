@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tool_Macro", "Tool_Macro\Tool_Macro.csproj", "{84BBE81E-17F1-4881-8486-E9D57E293B5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84BBE81E-17F1-4881-8486-E9D57E293B5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84BBE81E-17F1-4881-8486-E9D57E293B5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84BBE81E-17F1-4881-8486-E9D57E293B5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84BBE81E-17F1-4881-8486-E9D57E293B5A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CFEFBAC0-FD61-4A3E-806D-B2404C12E825}
+	EndGlobalSection
+EndGlobal
